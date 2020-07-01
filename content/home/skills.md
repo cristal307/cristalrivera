@@ -39,7 +39,17 @@ subtitle = ""
   name = "Positive learning process"
 #  description = "90%"
   
+[[feature]]
+  icon = "hands-helping"
+  icon_pack = "fas"
+  name = "Teamwork"
+#  description = "90%"
   
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Assertive Communication"
+#  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
