@@ -19,33 +19,45 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Costa Rica Institute of Technology"
+  organization_url = "https://www.tec.ac.cr/"
+  title = "Bachelor's Degree in Industrial Production Engineering."
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2014-02-01"
+  date_end = "2020-06-01"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Festo"
+  organization_url = "https://www.festo.com/cms/es-mx_mx/index.htm"
+  title = "Taller Industria 4.0"
+  url = ""
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2019-05-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+
+
+[[item]]
+  organization = "CENAT"
+  organization_url = "https://www.cenat.ac.cr/es/"
+  title = "Análisis Estadístico con R "
+#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+#  certificate_url = "https://www.edx.org"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  title = "Career Track: Data Scientist with R"
+#  url = ""
+#  certificate_url = "https://www.datacamp.com"
+  date_start = "2019-01-01"
+  date_end = ""
   description = ""
 
 +++

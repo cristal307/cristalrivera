@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Researcher"
+  company = "Programa de Estado de la Nación  "
+  company_url = "https://estadonacion.or.cr/"
+#  location = "California"
+  date_start = "2019-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+ Research in the evaluation of three forecasting models for short term traffic flow in highway San José - Caldera as an input to the use of intelligent transport systems and the calculation of the social cost for the delay.
+  """
+  [[experience]]
+  title = "Co-founder of DABIA "
+  company = "DABIA  "
+  company_url = "https://www.grupodabia.com/nosotros/"
+#  location = "California"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+Support the multidisciplinary community of interest in data science, which aims to become an agent of change in Costa Rica by promoting research.
+
+Boost the development of knowledge in the field of data engineering, data governance, analysis, and business intelligence in an inclusive, accessible, and equally inspiring way to be a promoter community in the area by educational volunteering.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research, development and testing of electric aircraft in Costa Rica"
+  company = "AeroTec"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#  location = "California"
+  date_start = "2019-02-01"
+  date_end = ""
+# description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+Development of strategy and market analysis using new technologies, statistical techniques, and data analysis in order to study the behavior and decisions of the current market and obtain objective information for decision-making.
 
+
+Planning and management of the activities carried out such as the reception of each of the participants upon arrival of the event and their respective registration. Lead the team for contact and monitoring with the companies involved in the meeting and of the activity: "Business Roundtable".
+ """
 +++
