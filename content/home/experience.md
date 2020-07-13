@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
- Research in the evaluation of three forecasting models for short term traffic flow in highway San José - Caldera as an input to the use of intelligent transport systems and the calculation of the social cost for the delay.
+ Research in the evaluation of three forecasting models for short term traffic flow in highway San José - Caldera as an input to the use of intelligent transport systems and the estimate the social cost for the delay.
   """
   [[experience]]
   title = "Co-founder of DABIA "
