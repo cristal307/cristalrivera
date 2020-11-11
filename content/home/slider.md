@@ -42,7 +42,7 @@ height = "250px"
 
   overlay_color = "#FA8072"  # An HTML color value.
   overlay_img = "headers/21.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5# Darken the image. Value in range 0-1.
+  overlay_filter = 0.3# Darken the image. Value in range 0-1.
 
 [[item]]
  content = "“It is not how much we have, but how much we enjoy, that makes happiness” ― Charles Spurgeon"
@@ -50,7 +50,7 @@ height = "250px"
 
   overlay_color = "#FA8072"  # An HTML color value.
   overlay_img = "headers/21.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5# Darken the image. Value in range 0-1.
+  overlay_filter = 0.3# Darken the image. Value in range 0-1.
 
 
 +++
