@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+#bio: 
 education:
   courses:
   - course: BEng in Industrial Production 
@@ -10,14 +9,15 @@ education:
     year: 2020
 email: "riveracristal07@gmail.com"
 interests:
+- Machine Learning
+- Artifical Intelligence
 - Data Analysis
 - Data Visualization
 - Urban Mobility
 - Intelligent Transport Systems
 - Last Mile Logistics
 - Cleaner Production
-- Knowledge sharing
-- Mentoring
+- Knowledge sharing-Mentoring
 
 organizations:
 - name: Costa Rica Institute of Technology
@@ -35,11 +35,10 @@ social:
   icon_pack: fab
   link: https://github.com/cristal307
 superuser: true
-title: Cristal Denise Rivera Picado
-user_groups:
-- Researchers
+title: Cristal Rivera Picado
+#user_groups:
+#- Researchers
 
 ---
-Industrial production engineer passionate in data analysis in interpreting and visualizing data for driving business solutions. Proficient knowledge in statistics, mathematics, and analytics. Excellent understanding of business operations and engineer tools for effective analysis of data.
-With knowledge in quality control, reliability engineering, design of experiments and the study of new projects to evaluate its feasibility and economic analysis. I have constant desire to be part of new experiences because I know that they
-make me grow as a professional and as a person. I love working with multidisciplinary teams so that together we can be part of amazing discoveries, not only for my own learning but also to contribute to others with my knowledge and to impact society in a positive way.
+Industrial production engineer with understanding in business operations and engineer tools for effective analysis of data. Passionate about data science and urban mobility researching. 
+I have a constant desire to be part of new experiences because it makes me grow as a professional and as a person. I love working with multidisciplinary teams and together be part of amazing discoveries, not only for our own learning but also to contribute to others with our knowledge and impact society in a positive way.
