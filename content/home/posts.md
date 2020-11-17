@@ -3,9 +3,9 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
 title = "Posts"
 subtitle = ""
@@ -47,10 +47,14 @@ subtitle = ""
   
   # Background color.
   # color = "navy"
+    color = "papayawhip"
+ 
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  # gradient_start = "F5DEB3"
+  # gradient_end = "FFE4C4"
+
+  
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
