@@ -10,8 +10,8 @@ subtitle = ""
 
 [design.background]
  # Background color.
- # color = "navy"
-  color = "papayawhip"
+  color = "beige"
+ #color = "papayawhip"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

@@ -46,8 +46,8 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
-    color = "papayawhip"
+   color = "beige"
+ # color = "papayawhip"
  
   
   # Background gradient.
