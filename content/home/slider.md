@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "250px"
+height = "215px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -24,8 +24,8 @@ height = "250px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#FA8072"  # An HTML color value.
-  overlay_img = "headers/21.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1# Darken the image. Value in range 0-1.
+  overlay_img = "headers/3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.4# Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,16 +41,16 @@ height = "250px"
   align = "center"
 
   overlay_color = "#FA8072"  # An HTML color value.
-  overlay_img = "headers/21.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3# Darken the image. Value in range 0-1.
+  overlay_img = "headers/3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.4# Darken the image. Value in range 0-1.
 
 [[item]]
  content = "“It is not how much we have, but how much we enjoy, that makes happiness” ― Charles Spurgeon"
   align = "center"
 
   overlay_color = "#FA8072"  # An HTML color value.
-  overlay_img = "headers/21.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3# Darken the image. Value in range 0-1.
+  overlay_img = "headers/3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.4# Darken the image. Value in range 0-1.
 
 
 +++
