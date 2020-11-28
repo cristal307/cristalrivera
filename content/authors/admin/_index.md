@@ -10,14 +10,14 @@ education:
 email: "riveracristal07@gmail.com"
 interests:
 - Machine Learning
-- Artifical Intelligence
-- Data Analysis
-- Data Visualization
+- Artificial Intelligence
+- Data Analysis and visualization
 - Urban Mobility
 - Intelligent Transport Systems
-- Last Mile Logistics
 - Cleaner Production
 - Knowledge sharing-Mentoring
+- Business Operation
+
 
 organizations:
 - name: Costa Rica Institute of Technology

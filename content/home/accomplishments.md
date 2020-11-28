@@ -3,15 +3,14 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Accomplishments"
 subtitle = ""
 
 [design.background]
  # Background color.
- # color = "navy"
-  color = "papayawhip"
+  color = "Beige"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

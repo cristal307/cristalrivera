@@ -47,7 +47,7 @@ subtitle = ""
   
   # Background color.
   # color = "navy"
-    color = "papayawhip"
+    color = "Beige"
  
   
   # Background gradient.
