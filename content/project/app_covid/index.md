@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-03-10T00:00:00Z"
 external_link: https://amprensa.com/2020/04/sello-tico-estudiantes-y-egresados-tec-crean-app-que-rastrea-pandemia-en-costa-rica/
 image:
 # caption: Photo by Toa Heftiba on Unsplash
