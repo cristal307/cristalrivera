@@ -12,7 +12,7 @@ image:
 slides: example
 summary: Publicación de proyecto de graduación en Informe del Estado de la Nación 2020
 tags:
-- talks
+- projects
 title: Informe Estado Nación 2020
 # url_code: ""
 # url_pdf: ""
