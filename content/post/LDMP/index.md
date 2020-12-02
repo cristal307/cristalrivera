@@ -51,7 +51,7 @@ Then I received the email in which I was accepted. I was truly happy about it. T
 
 For 8 weeks we had group tech sessions that help us to develop different problem-solving skills and learn about tools like Alteryx, Tableau and Python. The experts first explained us theoretically and then put into practice what we learned. They really knew how to use that tools, they gave us tips and were open to answer any question and comments. 
 
-The most astounding part about the program was the 1:1 session with a mentor. Throughout the 8 weeks, we were accompanied by a regular member of the McKinsey firm who supported us in the learning process. My meetings with my mentor were usually on Fridays and I looked forward to that day. It was supposed to last an hour, but sometimes it would be longer than that, we talked about our personal and professional experiences. I think I really knew someone special in my life, I learned a lot about her personal development. 
+The most astounding part about the program was the 1:1 session with a mentor. Throughout the 8 weeks, we were accompanied by a regular member of the McKinsey firm who supported us in the learning process. My meetings with my mentor [Xime](https://www.linkedin.com/in/ximenarodriguezcarmiol/) were usually on Fridays and I looked forward to that day. It was supposed to last an hour, but sometimes it would be longer than that, we talked about our personal and professional experiences. I think I really knew someone special in my life, I learned a lot about her personal development. 
 
 This program made me think:
 -	 How one decision can impact many lives, thanks [Nathalia](https://www.linkedin.com/in/natalia-ram%C3%ADrez-vega/) and all the team that worked together to make this program come true.
