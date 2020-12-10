@@ -37,7 +37,7 @@ height = "215px"
 
 
 [[item]]
-  content = "You will know me a bit more in here, what are my interests,my professional experience,accomplishments, events and some of my blogs written in spanish and english. "
+  content = "This website will help you get to know me more: about my interests, my personal experiences,accomplishments,talks and some of my posts written in spanish and english."
   align = "center"
 
   overlay_color = "#FA8072"  # An HTML color value.
